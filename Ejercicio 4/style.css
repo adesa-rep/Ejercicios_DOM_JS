@@ -1,0 +1,11 @@
+.noFocus {
+  background-color: antiquewhite;
+}
+
+.focus {
+  background-color: rgb(252, 220, 252);
+}
+
+.value {
+  background-color: rgb(192, 250, 192);
+}
